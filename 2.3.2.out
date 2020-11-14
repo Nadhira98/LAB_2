@@ -1,0 +1,30 @@
+child process finished.
+Parent process => PID=1121
+Waiting for child processes to finish...
+Child process => PPID =1121, PID=1128
+child  process finished.
+Parent process => PID  1121
+Waiting for child processes to finish...
+Child process => PPID =1121, PID=1126
+child process finished.
+Parent process => PID=1121
+Waiting for child processes to finish...
+Child process => PPID =1121, PID=1127
+child process finished.
+Parent process => PID=1121
+Waiting for child processes to finish...
+Child process => PPID =1121, PID=1128
+child process  finished.
+Parent process => PID=1121
+Waiting for child processes to finish...
+Child process => PPID = 1121, PID=1129
+child process finished.
+Parent process => PID=1121
+Waiting for child processes to finish...
+Child process => PPID =1121, PID=1130
+child process finished.
+Parent process => PID=1121
+Waiting for child processes to finish...
+Child process => PPID= 1121, PID=1131
+child process finished.
+

@@ -1,0 +1,3 @@
+in function 'main':
+7::1: warning: implict declaration of function 'fork' [-Wimplicit-function-declaration] fork();
+
